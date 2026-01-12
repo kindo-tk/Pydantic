@@ -27,3 +27,10 @@ To run the tutorials, install the required libraries using pip:
 ```bash
 pip install pydantic email-validator
 ```
+
+## Contact 
+For any inquiries or feedback, please contact:
+
+- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
+- Email: tufan.kundu11@gmail.com
+---
