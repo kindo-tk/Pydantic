@@ -27,6 +27,9 @@ To run the tutorials, install the required libraries using pip:
 ```bash
 pip install pydantic email-validator
 ```
+---
+## Acknowledgement
+The content of this repository is inspired by and learned from the [**CampusX**](https://www.youtube.com/@campusx-official) YouTube channel, taught by none other than [**Nitish**](https://www.linkedin.com/in/nitish-singh-03412789/) sir.
 
 ## Contact 
 For any inquiries or feedback, please contact:
